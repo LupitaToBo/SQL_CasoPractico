@@ -38,9 +38,8 @@ La categoría que genera mayores ingresos es la “Italian” con un monto de $4
 
 El menú se compone de 32 platillos organizados en 4 categorías. Los productos se distribuyen en las categorías en la siguiente forma: la categoría Americana tiene 6 platillos y es la que tiene menos, le sigue la Asiática con 8 platillos, y al final con el mismo número de platillos 9 las categorías Mexicana e Italiana.
 
-<img src="[ImagenLin](https://github.com/user-attachments/assets/c542cff0-0495-48ea-bce7-391512e0e66e)" width="200" height="200" />
+![ImagenLin](https://github.com/user-attachments/assets/363ff9bf-3353-4d4b-8d93-b7cddc780ea4)
 
-![ImagenLin](https://github.com/user-attachments/assets/c542cff0-0495-48ea-bce7-391512e0e66e)
 
 
 ## 4.- Órdenes 
